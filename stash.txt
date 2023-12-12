@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 kiruba
 surya
 prem
 moni
 supriya
 deena
+
+=======
 
